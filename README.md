@@ -1,4 +1,4 @@
-# UGCP-Semi-supervised-segmentation
+# PCUM-Semi-supervised-segmentation
 
 ## Requirements
 Please see requirements.txt
